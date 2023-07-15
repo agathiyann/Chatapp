@@ -1,12 +1,12 @@
 {
-  "name": "react-firebase-chat-app",
-  "short_name": "Connect+",
+  "name": "Connect+",
+  "short_name": "",
   "theme_color": "#000000",
   "background_color": "#000000",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "https://agathiyann.github.io/Chatapp/",
   "icons":[
     {
         "src":"maskable.png",
